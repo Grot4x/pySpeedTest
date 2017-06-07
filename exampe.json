@@ -1,0 +1,23 @@
+{
+    "timestamp": "2017-06-07T14:31:55.774439Z",
+    "server": {
+        "country": "Germany",
+        "host": "speedtest.csb-net.de:8080",
+        "d": 37.999406391832366,
+        "latency": 21.865,
+        "name": "Bad Oldesloe",
+        "cc": "\nDE",
+        "id": "3537",
+        "lat": "53.8167",
+        "lon": "10.3667",
+        "sponsor": "C&S Breitband GmbH",
+        "url2": "http://speedtest.vsm.sh/speedtest/upload.php",
+        "url": "http://speedtest.csb-net.de/speedtest/\nupload.php"
+    },
+    "download": 22719746.846618734,
+    "upload": 4824993.149252426,
+    "bytes_sent": 6356992,
+    "ping": 21.865,
+    "share": null,
+    "bytes_received": 28610032
+}
